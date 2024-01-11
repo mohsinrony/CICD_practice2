@@ -1,6 +1,5 @@
 # CICD_practice2
 
-# null_or_empty
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
 
